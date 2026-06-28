@@ -1,0 +1,12 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   EVENT: 0.0    
+EVENT: 0.0    CAR_AUDIO_PATTERN     	4      	 10                 1.0f
+EVENT: 40.0    CAR_AUDIO_PATTERN     	3      	 11                 1.0f
+EVENT: 60.0    CAR_AUDIO_PATTERN     	2      	 12                 1.0f
+EVENT: 50.0   CAR_AUDIO_PATTERN     	1      	 6                  1.0f
+
+
+EVENT: 200.0f    CAR_AUDIO_PATTERN     	1      	5           1.0f
+EVENT: 230.0f    CAR_AUDIO_PATTERN     	2      	6           1.0f
+EVENT: 250.0f    CAR_AUDIO_PATTERN     	3      	7           1.0f
+EVENT: 180.0f    CAR_AUDIO_PATTERN     	4      	8           1.0f

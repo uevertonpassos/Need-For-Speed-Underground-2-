@@ -1,0 +1,18 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+
+EVENT: 0.0       SEQ_CAR_TORQUE       1               80.0f           0.8f               3.0f
+EVENT: 1.0       SEQ_CAR_NITRO        1               1.0f
+EVENT: 15.0       SEQ_CAR_NITRO       1               1.0f
+
+
+
+EVENT: 20.0       SEQ_CAR_NITRO       2               1.0f
+EVENT: 33.0       SEQ_CAR_NITRO       2               1.0f
+
+EVENT: 60.0       SEQ_CAR_NITRO       1               1.0f
+
+EVENT: 160.0      SEQ_CAR_NITRO       1               1.0f
+                
+
+

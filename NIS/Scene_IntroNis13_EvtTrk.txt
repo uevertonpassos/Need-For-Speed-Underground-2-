@@ -1,0 +1,18 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+
+
+EVENT: 10.0       SEQ_CAR_BURNOUT     1               152.0f
+EVENT: 45.0       SEQ_CAR_NITRO       1               1.0f
+EVENT: 100.0      SEQ_CAR_NITRO       1               1.0f
+
+
+EVENT: 0.0f    CAR_AUDIO_PATTERN     	1      	7           1.0f
+EVENT: 15.0f    CAR_AUDIO_PATTERN     	2      	12           1.0f
+EVENT: 50.0f    CAR_AUDIO_PATTERN     	3      	5           1.0f
+EVENT: 60.0f    CAR_AUDIO_PATTERN     	4      	6           1.0f
+
+EVENT: 200.0f    CAR_AUDIO_PATTERN     	1      	7           1.0f
+EVENT: 230.0f    CAR_AUDIO_PATTERN     	2      	6           1.0f
+EVENT: 210.0f    CAR_AUDIO_PATTERN     	3      	7           1.0f
+EVENT: 180.0f    CAR_AUDIO_PATTERN     	4      	7           1.0f

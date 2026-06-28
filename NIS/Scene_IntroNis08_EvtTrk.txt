@@ -1,0 +1,26 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    2         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    3         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    4         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    1         CARFX_NITRO      0.0f                3
+
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    1 	       CARFX_NOS_BLOWOFF	   0.0f	    3
+
+EVENT: 0.0       SEQ_CAR_NITRO       1               1.0f
+EVENT: 4.0       SEQ_CAR_NITRO       4               1.0f
+EVENT: 15.0      SEQ_CAR_NITRO       4               1.0f
+EVENT: 18.0      SEQ_CAR_NITRO       1               1.0f
+EVENT: 59.0      SEQ_CAR_NITRO       2               1.0f
+EVENT: 68.0      SEQ_CAR_NITRO       1               1.0f
+EVENT: 87.0      SEQ_CAR_NITRO       2               1.0f
+EVENT: 161.0     SEQ_CAR_NITRO       1               1.0f
+
+EVENT: 90.0f     CAR_AUDIO_PATTERN     	1      	12          1.0f
+EVENT: 40.0f     CAR_AUDIO_PATTERN      2      	11          1.0f
+EVENT: 100.0f    CAR_AUDIO_PATTERN     	3      	7           1.0f
+
+EVENT: 180.0f    CAR_AUDIO_PATTERN      4      	6           1.0f
+EVENT: 200.0f    CAR_AUDIO_PATTERN     	1      	7           1.0f
+EVENT: 230.0f    CAR_AUDIO_PATTERN     	2      	10          1.0f
+EVENT: 210.0f    CAR_AUDIO_PATTERN     	3      	5           1.0f

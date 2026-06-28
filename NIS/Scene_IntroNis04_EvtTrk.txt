@@ -1,0 +1,49 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    3         CARFX_NITRO      0.0f                3
+
+//     time    CAR_HYDRAULIC_BOUNCE  car_num   car_wheel         bounce_intensity
+EVENT: 0.0f    CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_RL      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_RR      0.0f
+
+//     time    CAR_HYDRAULIC_EXTEND  car_num   car_wheel         extend_amount
+EVENT: 0.0f    CAR_HYDRAULIC_EXTEND  3         CAR_WHEEL_FL      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_EXTEND  3         CAR_WHEEL_FR      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_EXTEND  3         CAR_WHEEL_RL      0.0f
+EVENT: 0.0f    CAR_HYDRAULIC_EXTEND  3         CAR_WHEEL_RR      0.0f
+
+//  Reset values
+
+//     time    CAR_HYDRAULIC_BOUNCE  car_num   car_wheel         bounce_intensity
+EVENT: 0.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.2f
+EVENT: 0.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.1f
+
+EVENT: 1.0       SEQ_CAR_NITRO       3               1.0f
+
+EVENT: 8.0       SEQ_CAR_NITRO       3               1.0f
+
+//     time    CAR_HYDRAULIC_BOUNCE  car_num   car_wheel         bounce_intensity
+EVENT: 15.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.4f
+EVENT: 15.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.5f
+
+//     time    CAR_HYDRAULIC_BOUNCE  car_num   car_wheel         bounce_intensity
+EVENT: 60.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.3f
+EVENT: 60.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.6f
+
+EVENT: 60.0       SEQ_CAR_NITRO       3               1.0f
+
+EVENT: 90.0f    CAR_TRIGGER_EFFECT    3         CARFX_NOS_BLOWOFF      1.0f                3
+
+//     time    CAR_HYDRAULIC_BOUNCE  car_num   car_wheel         bounce_intensity
+EVENT: 90.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.8f
+EVENT: 90.0f   CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.7f
+
+EVENT: 97.0       SEQ_CAR_NITRO       3               1.0f
+
+EVENT: 100.0f    CAR_TRIGGER_EFFECT    3         CARFX_NOS_BLOWOFF      0.0f                3
+
+EVENT: 180.0f  CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FL      0.0f
+EVENT: 180.0f  CAR_HYDRAULIC_BOUNCE  3         CAR_WHEEL_FR      0.0f
+

@@ -1,0 +1,51 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    2         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    3         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    4         CARFX_NITRO      0.0f                3
+EVENT: 0.0f    CAR_TRIGGER_EFFECT    1         CARFX_NITRO      0.0f                3
+
+EVENT: 0.0       SEQ_CAR_NITRO       4              1.0f
+EVENT: 0.0f    CAR_AUDIO_PATTERN     4       5       1.0f
+EVENT: 4.0       SEQ_CAR_NITRO       4               1.0f
+
+EVENT: 10.0      SEQ_CAR_NITRO       2               1.0f
+
+EVENT: 18.0      SEQ_CAR_NITRO       1               1.0f
+EVENT: 30.0      SEQ_CAR_NITRO       1               1.0f
+EVENT: 35.0f    CAR_AUDIO_PATTERN     2       10       1.0f
+EVENT: 36.0      SCREEN_FLASH	     1               1.0f
+
+EVENT: 68.0      SEQ_CAR_NITRO       4               1.0f
+
+EVENT: 71.0      SCREEN_FLASH	     1               1.0f
+EVENT: 71.0f    CAR_AUDIO_PATTERN     1       12       1.0f
+
+EVENT: 75.0f    CAR_AUDIO_PATTERN     3       8       1.0f
+
+EVENT: 87.0      SEQ_CAR_NITRO       2               1.0f
+EVENT: 90.0      SEQ_CAR_NITRO       3               1.0f
+EVENT: 100.0     SEQ_CAR_NITRO       4               1.0f 
+
+EVENT: 101.0      SCREEN_FLASH	     1               1.0f
+EVENT: 107.0      SEQ_CAR_NITRO       1               1.0f
+
+EVENT: 115.0      SEQ_CAR_NITRO       1               1.0f
+
+EVENT: 120.0    SEQ_CAR_TORQUE        1             60.0f           0.7f               3.0f
+
+EVENT: 132.0      SEQ_CAR_NITRO       4               1.0f
+
+EVENT: 131.0      SCREEN_FLASH	     1               1.0f
+
+EVENT: 155.0     SEQ_CAR_NITRO       4               1.0f
+
+EVENT: 161.0      SCREEN_FLASH	     1               1.0f
+
+EVENT: 200.0      SCREEN_FLASH	     1               1.0f
+
+
+EVENT: 250.0f    CAR_AUDIO_PATTERN     	1      	10           1.0f
+EVENT: 260.0f    CAR_AUDIO_PATTERN     	2      	11           1.0f
+EVENT: 260.0f    CAR_AUDIO_PATTERN     	3      	12           1.0f
+EVENT: 270.0f    CAR_AUDIO_PATTERN     	4      	5           1.0f

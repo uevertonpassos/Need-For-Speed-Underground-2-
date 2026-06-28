@@ -1,0 +1,5 @@
+
+// start open the close it
+EVENT: 0.0f    WORLD_MESSAGE   DOOR_POSITION  1.0f  0.0f
+EVENT: 0.0    CAR_AUDIO_PATTERN     	1      	4           1.0f
+EVENT: 40.0f   WORLD_MESSAGE   DOOR_POSITION  0.0f  70.0f

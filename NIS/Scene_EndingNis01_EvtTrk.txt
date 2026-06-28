@@ -1,0 +1,10 @@
+
+//     time    CAR_TRIGGER_EFFECT    car_num   car_effect_type   effect_intensity    effect_parameter
+
+
+EVENT: 0.0f    CAR_BURNOUT_ADDITIVE  1         2.5
+EVENT: 0.0f    CAR_BRAKE_LOCK		 1         0.20
+EVENT: 0.0    CAR_AUDIO_PATTERN     	1      	 13           1.0f
+
+EVENT: 185.0f    CAR_BURNOUT_ADDITIVE	1       0.0
+EVENT: 185.0f    CAR_BRAKE_LOCK			1      1.00
